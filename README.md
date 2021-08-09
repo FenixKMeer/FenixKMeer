@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FenixKMeer
+- 👀 I’m interested in computer science and logic behind computer hardware.
+- 🌱 I’m currently learning HTML and CSS.
+- 💞️ I’m looking to collaborate on anything I can help with.
+- 📫 How to reach me: @FenixKMeer on Scratch or fenixmeer@icloud.com
